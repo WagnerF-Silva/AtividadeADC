@@ -34,7 +34,7 @@ Este projeto utiliza um **Raspberry Pi Pico** para ler um **joystick analógico*
 1. O joystick envia valores analógicos para os pinos **ADC**.
 2. O **display OLED** exibe um quadrado que se move conforme o joystick.
 3. Os **LEDs RGB** ajustam sua intensidade com base nos eixos X e Y do joystick.
-4. O **botão do joystick** alterna o estado do LED verde e modifica a borda do display.
+4. O **botão do joystick** alterna o estado do LED verde/vermelho e modifica a borda do display.
 5. O **botão A** ativa/desativa os LEDs RGB.
 
 ## Como Executar
